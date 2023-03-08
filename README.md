@@ -1,0 +1,2 @@
+# RabbitMQ
+Practice for RabbitMQ
